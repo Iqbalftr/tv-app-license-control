@@ -4,10 +4,10 @@
     "maintenance_message": "Server under scheduled maintenance. Please check back later."
   },
   "devices": {
-    "SAMPLE_DEVICE_ID_1": {
-      "user_name": "Rahim Ahmed",
+    "a55d832bc3db7d6a": {
+      "user_name": "Iqbal Hossain",
       "status": "allowed",
-      "valid_until": "2027-12-31T23:59:59Z"
+      "valid_until": "2030-12-31T23:59:59Z"
     },
     "SAMPLE_DEVICE_ID_2": {
       "user_name": "Karim Hossain",
