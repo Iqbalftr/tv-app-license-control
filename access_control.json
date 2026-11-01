@@ -6,7 +6,7 @@
   "devices": {
     "a55d832bc3db7d6a": {
       "user_name": "Iqbal Hossain",
-      "status": "allowed",
+      "status": "blocked",
       "valid_until": "2030-12-31T23:59:59Z"
     },
     "addID": {
