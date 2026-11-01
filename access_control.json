@@ -14,6 +14,11 @@
       "status": "allowed",
       "valid_until": "2030-12-31T23:59:59Z"
     },
+    "b4bdbdf40df53e97": {
+      "user_name": "Rahat Hossain",
+      "status": "allowed",
+      "valid_until": "2030-12-31T23:59:59Z"
+    },
     "SAMPLE_DEVICE_ID_2": {
       "user_name": "Karim Hossain",
       "status": "blocked",
