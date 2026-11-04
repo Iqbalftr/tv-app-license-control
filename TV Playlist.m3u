@@ -1,8 +1,12 @@
 #EXTM3U name="xTv Live - Selected Channels (427) (Active Only)"
-#EXTINF:-1 tvg-id="t-sports" tvg-name="T Sports" tvg-logo="https://tv.tawseer.com/files/t_sports_1787865774604_6ed83bad7feb6c2f.webp" group-title="Sports",T Sports
+#EXTINF:-1 tvg-id="t-sports" tvg-name="T Sports" tvg-logo="https://tv.tawseer.com/files/t_sports_1787865774604_6ed83bad7feb6c2f.webp" group-title="Sports",T Sports (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
+#EXTINF:-1 tvg-id="t-sports" tvg-name="T Sports" tvg-logo="https://tv.tawseer.com/files/t_sports_1787865774604_6ed83bad7feb6c2f.webp" group-title="Sports",T Sports (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://tv.tawseer.com/api/https?url=http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nagorik-tv" tvg-name="Nagorik TV" tvg-logo="https://tv.tawseer.com/files/nagorik_tv_1787775318966_b63f393109981865.webp" group-title="Bangla",Nagorik TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -23,22 +27,34 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
-#EXTINF:-1 tvg-id="bijoy-tv" tvg-name="Bijoy TV" tvg-logo="https://tv.tawseer.com/files/bijoy_tv_1787818621522_5df6aadc3c2fa31b.webp" group-title="Bangla",Bijoy TV
+#EXTINF:-1 tvg-id="bijoy-tv" tvg-name="Bijoy TV" tvg-logo="https://tv.tawseer.com/files/bijoy_tv_1787818621522_5df6aadc3c2fa31b.webp" group-title="Bangla",Bijoy TV (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
-#EXTINF:-1 tvg-id="boishakhi" tvg-name="Boishakhi" tvg-logo="https://tv.tawseer.com/files/boishakhi_tv_1787807188472_9bf2f8a91d87e1ee.webp" group-title="Bangla",Boishakhi
+#EXTINF:-1 tvg-id="bijoy-tv" tvg-name="Bijoy TV" tvg-logo="https://tv.tawseer.com/files/bijoy_tv_1787818621522_5df6aadc3c2fa31b.webp" group-title="Bangla",Bijoy TV (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
+#EXTINF:-1 tvg-id="boishakhi" tvg-name="Boishakhi" tvg-logo="https://tv.tawseer.com/files/boishakhi_tv_1787807188472_9bf2f8a91d87e1ee.webp" group-title="Bangla",Boishakhi (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="boishakhi" tvg-name="Boishakhi" tvg-logo="https://tv.tawseer.com/files/boishakhi_tv_1787807188472_9bf2f8a91d87e1ee.webp" group-title="Bangla",Boishakhi (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-id="bangla-vision" tvg-name="Bangla Vision" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangla",Bangla Vision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
-#EXTINF:-1 tvg-id="gazi-tv" tvg-name="Gazi TV" tvg-logo="https://tv.tawseer.com/files/gazi_tv__1784912733004_0612f4d5c61e40b3.webp" group-title="Bangla",Gazi TV
+#EXTINF:-1 tvg-id="gazi-tv" tvg-name="Gazi TV" tvg-logo="https://tv.tawseer.com/files/gazi_tv__1784912733004_0612f4d5c61e40b3.webp" group-title="Bangla",Gazi TV (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tv.tawseer.com/api/jagobd/stream?url=c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-id="gazi-tv" tvg-name="Gazi TV" tvg-logo="https://tv.tawseer.com/files/gazi_tv__1784912733004_0612f4d5c61e40b3.webp" group-title="Bangla",Gazi TV (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="https://tv.tawseer.com/files/RTV_1784912892203_b760b14cd0277d41.webp" group-title="Bangla",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -51,14 +67,22 @@ https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
-#EXTINF:-1 tvg-id="ekushey-tv" tvg-name="Ekushey TV" tvg-logo="https://i.postimg.cc/L6R2F0jj/20250529_105209.png" group-title="Bangla",Ekushey TV
+#EXTINF:-1 tvg-id="ekushey-tv" tvg-name="Ekushey TV" tvg-logo="https://i.postimg.cc/L6R2F0jj/20250529_105209.png" group-title="Bangla",Ekushey TV (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
-#EXTINF:-1 tvg-id="desh-tv" tvg-name="Desh TV" tvg-logo="https://i.postimg.cc/wvBbd56q/Desh-TV.jpg" group-title="Bangla",Desh TV
+#EXTINF:-1 tvg-id="ekushey-tv" tvg-name="Ekushey TV" tvg-logo="https://i.postimg.cc/L6R2F0jj/20250529_105209.png" group-title="Bangla",Ekushey TV (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-id="desh-tv" tvg-name="Desh TV" tvg-logo="https://i.postimg.cc/wvBbd56q/Desh-TV.jpg" group-title="Bangla",Desh TV (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+#EXTINF:-1 tvg-id="desh-tv" tvg-name="Desh TV" tvg-logo="https://i.postimg.cc/wvBbd56q/Desh-TV.jpg" group-title="Bangla",Desh TV (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="asian-tv" tvg-name="Asian TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg" group-title="Bangla",Asian TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -67,22 +91,34 @@ https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
-#EXTINF:-1 tvg-id="ekhon-tv" tvg-name="Ekhon TV" tvg-logo="https://ekhon.tv/logo.png" group-title="Bangla",Ekhon TV
+#EXTINF:-1 tvg-id="ekhon-tv" tvg-name="Ekhon TV" tvg-logo="https://ekhon.tv/logo.png" group-title="Bangla",Ekhon TV (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+#EXTINF:-1 tvg-id="ekhon-tv" tvg-name="Ekhon TV" tvg-logo="https://ekhon.tv/logo.png" group-title="Bangla",Ekhon TV (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://tv.tawseer.com/api/https?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="somoy-tv" tvg-name="Somoy TV" tvg-logo="https://tv.tawseer.com/files/somoy_1781974337392_63ce696220e00519.webp" group-title="Bangla",Somoy TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
-#EXTINF:-1 tvg-id="star-jalsha-hd" tvg-name="Star Jalsha HD" tvg-logo="https://tv.tawseer.com/files/Star_Jalsha_1786332320316_650d491060d69092.webp" group-title="Indian Bangla",Star Jalsha HD
+#EXTINF:-1 tvg-id="star-jalsha-hd" tvg-name="Star Jalsha HD" tvg-logo="https://tv.tawseer.com/files/Star_Jalsha_1786332320316_650d491060d69092.webp" group-title="Indian Bangla",Star Jalsha HD (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-id="colors-bangla" tvg-name="Colors Bangla" tvg-logo="https://tv.tawseer.com/files/Colors_Bangla_1786332386853_13a16ff2ae4b6b1f.webp" group-title="Indian Bangla",Colors Bangla
+#EXTINF:-1 tvg-id="star-jalsha-hd" tvg-name="Star Jalsha HD" tvg-logo="https://tv.tawseer.com/files/Star_Jalsha_1786332320316_650d491060d69092.webp" group-title="Indian Bangla",Star Jalsha HD (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://tv.tawseer.com/api/hridoy-tv-direct/stream/starjalsha
+#EXTINF:-1 tvg-id="colors-bangla" tvg-name="Colors Bangla" tvg-logo="https://tv.tawseer.com/files/Colors_Bangla_1786332386853_13a16ff2ae4b6b1f.webp" group-title="Indian Bangla",Colors Bangla (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1 tvg-id="colors-bangla" tvg-name="Colors Bangla" tvg-logo="https://tv.tawseer.com/files/Colors_Bangla_1786332386853_13a16ff2ae4b6b1f.webp" group-title="Indian Bangla",Colors Bangla (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://tv.tawseer.com/api/hridoy-tv-pro/stream/1369?expire=43738831219634
 #EXTINF:-1 tvg-id="akash-aath" tvg-name="Akash Aath" tvg-logo="https://tv.tawseer.com/files/akash_aath_1784914058728_a9fcd1b2947073c0.webp" group-title="Indian Bangla",Akash Aath
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -107,22 +143,34 @@ https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tv.tawseer.com/api/hridoy-tv-pro/stream/3005?expire=43738831219634
-#EXTINF:-1 tvg-id="news-18-bangla" tvg-name="News 18 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/News18_Bangla.png?_=20250709144213" group-title="Indian Bangla",News 18 Bangla
+#EXTINF:-1 tvg-id="news-18-bangla" tvg-name="News 18 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/News18_Bangla.png?_=20250709144213" group-title="Indian Bangla",News 18 Bangla (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="news-18-bangla" tvg-name="News 18 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/News18_Bangla.png?_=20250709144213" group-title="Indian Bangla",News 18 Bangla (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="enter-10-bangla" tvg-name="Enter 10 Bangla" tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian Bangla",Enter 10 Bangla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="zee-24-ghanta" tvg-name="Zee 24 Ghanta" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg" group-title="Indian Bangla",Zee 24 Ghanta
+#EXTINF:-1 tvg-id="zee-24-ghanta" tvg-name="Zee 24 Ghanta" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg" group-title="Indian Bangla",Zee 24 Ghanta (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="tv9-bangla" tvg-name="TV9 Bangla" tvg-logo="https://tv.tawseer.com/files/tv9_1786614610318_b4c1eeb75f80229f.webp" group-title="Indian Bangla",TV9 Bangla
+#EXTINF:-1 tvg-id="zee-24-ghanta" tvg-name="Zee 24 Ghanta" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg" group-title="Indian Bangla",Zee 24 Ghanta (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-id="tv9-bangla" tvg-name="TV9 Bangla" tvg-logo="https://tv.tawseer.com/files/tv9_1786614610318_b4c1eeb75f80229f.webp" group-title="Indian Bangla",TV9 Bangla (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="tv9-bangla" tvg-name="TV9 Bangla" tvg-logo="https://tv.tawseer.com/files/tv9_1786614610318_b4c1eeb75f80229f.webp" group-title="Indian Bangla",TV9 Bangla (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="ktv" tvg-name="KTV" tvg-logo="https://tv.tawseer.com/files/Ktv_bangla_1787505841879_eb64d55c8e851910.webp" group-title="Indian Bangla",KTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -275,10 +323,14 @@ https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ananda-tv" tvg-name="Ananda TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2RNLiL4qhYEVawGUat1HjjDb693C2K8hUpM7xLiuYciPmjwIQ5j7TIevtcnsHdjGBLIZZJbFTAc4nRoys3vyN-IeEiParo1SNH19m-1IbWG9RPRcW_VoPdSDNfNlFD4NWrKoONwxhgYJuLUzaTQ-LpDoQuqyOMx6meiH7QStygj_kx_Yrs17Dz62ccw/s600/Nur_20251216_221801_0000.png" group-title="Movies",Ananda TV
+#EXTINF:-1 tvg-id="ananda-tv" tvg-name="Ananda TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2RNLiL4qhYEVawGUat1HjjDb693C2K8hUpM7xLiuYciPmjwIQ5j7TIevtcnsHdjGBLIZZJbFTAc4nRoys3vyN-IeEiParo1SNH19m-1IbWG9RPRcW_VoPdSDNfNlFD4NWrKoONwxhgYJuLUzaTQ-LpDoQuqyOMx6meiH7QStygj_kx_Yrs17Dz62ccw/s600/Nur_20251216_221801_0000.png" group-title="Movies",Ananda TV (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tv.tawseer.com/api/jagobd/stream?url=c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-id="ananda-tv" tvg-name="Ananda TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2RNLiL4qhYEVawGUat1HjjDb693C2K8hUpM7xLiuYciPmjwIQ5j7TIevtcnsHdjGBLIZZJbFTAc4nRoys3vyN-IeEiParo1SNH19m-1IbWG9RPRcW_VoPdSDNfNlFD4NWrKoONwxhgYJuLUzaTQ-LpDoQuqyOMx6meiH7QStygj_kx_Yrs17Dz62ccw/s600/Nur_20251216_221801_0000.png" group-title="Movies",Ananda TV (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://tv.tawseer.com/api/https?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="action-hollywood-movies" tvg-name="Action Hollywood Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="Movies",Action Hollywood Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -315,10 +367,14 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/ts-eu-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="movie-bangla" tvg-name="Movie Bangla" tvg-logo="https://i.postimg.cc/wBN1BtXk/20251127_095813.png" group-title="Movies",Movie Bangla
+#EXTINF:-1 tvg-id="movie-bangla" tvg-name="Movie Bangla" tvg-logo="https://i.postimg.cc/wBN1BtXk/20251127_095813.png" group-title="Movies",Movie Bangla (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tv.tawseer.com/api/https?url=http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-id="movie-bangla" tvg-name="Movie Bangla" tvg-logo="https://i.postimg.cc/wBN1BtXk/20251127_095813.png" group-title="Movies",Movie Bangla (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="anirban" tvg-name="Anirban" tvg-logo="https://i.imgur.com/rwd1rei.png" group-title="Movies",Anirban
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -519,10 +575,14 @@ https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="abp-ananda" tvg-name="ABP Ananda" tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg" group-title="News",ABP Ananda
+#EXTINF:-1 tvg-id="abp-ananda" tvg-name="ABP Ananda" tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg" group-title="News",ABP Ananda (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://amg01412-xiaomiasia-abpananda-xiaomi-lzyzw.amagi.tv/playlist/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="abp-ananda" tvg-name="ABP Ananda" tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg" group-title="News",ABP Ananda (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="independent" tvg-name="Independent" tvg-logo="https://tv.tawseer.com/files/independent_1787806669347_ec7ac9747b1fb8ca.webp" group-title="News",Independent
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -531,6 +591,10 @@ https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+#EXTINF:-1 tvg-id="kolkata-tv-2" tvg-name="Kolkata TV" tvg-logo="https://tv.tawseer.com/files/Kolkata_TV_2010_1784940507382_f41327ec6d3a4992.webp" group-title="News",Kolkata TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-id="cna-news" tvg-name="CNA News" tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg" group-title="News",CNA News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -786,6 +850,14 @@ https://tedesco.formaturamaxi.com.br/nhl4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bf4eee9d-084f-4034-9059-489051aca091/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-2" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c5d141be-e9ab-48df-9fb5-6ab6c48ed051/master.m3u8
+#EXTINF:-1 tvg-id="hd-quality-9" tvg-name="HD QUALITY" tvg-logo="" group-title="General",HD QUALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://admin2.formaturamaxi.com.br/nhl3.m3u8
 #EXTINF:-1 tvg-id="stream-ccebbd3068" tvg-name="STREAM" tvg-logo="" group-title="General",STREAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -840,6 +912,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6d514982-866a-47c1-a4b8-aef1c7a5cf80/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-ca163eed53" tvg-name="SPORTSCAST FHD" tvg-logo="" group-title="News",SPORTSCAST FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7af8ddd5-3696-4e32-a9af-1008e0e2e608/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-1f153f7784" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1286cd1d-74b5-4bd9-a1fd-fd05e9a917c9/master.m3u8
 #EXTINF:-1 tvg-id="cbs-sports-fhd-c7658f6153" tvg-name="CBS SPORTS FHD" tvg-logo="" group-title="News",CBS SPORTS FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -897,10 +977,25 @@ https://pull.qjkngv.com/live/stream-718044_lhd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd
+#EXTINF:-1 tvg-id="tnt-brasil-fhd-94a8d412b5" tvg-name="TNT BRASIL FHD" tvg-logo="" group-title="Entertainment",TNT BRASIL FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f8c882c6744246cc84282b0e0effab5:dd9ab472acead0eb65f951b02754e14b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fpdxqdql9c/out/v1/c924679be15341649642c8349ecb353f/cenc.mpd
 #EXTINF:-1 tvg-id="faster-tv-hd-e36653b0a9" tvg-name="FASTER TV+ HD" tvg-logo="" group-title="Entertainment",FASTER TV+ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
+#EXTINF:-1 tvg-id="faster-tv-hd-a499e68666" tvg-name="FASTER TV+ HD" tvg-logo="" group-title="Entertainment",FASTER TV+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live2.jorvakstreamcache.com/live/channel17.m3u8
+#EXTINF:-1 tvg-id="faster-tv-hd-0de6b4a51b" tvg-name="FASTER TV+ HD" tvg-logo="" group-title="Entertainment",FASTER TV+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live2.jorvakstreamcache.com/live/channel12.m3u8
 #EXTINF:-1 tvg-id="motogp-fhd-b9058c073b" tvg-name="MotoGP FHD" tvg-logo="" group-title="General",MotoGP FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -912,6 +1007,50 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/96526cf8-9424-46d4-9734-a71c34b89c3e/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-890c364ac2" tvg-name="SPORTSCAST + FHD" tvg-logo="" group-title="News",SPORTSCAST + FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/337b5880-fdfb-4a95-bc7c-d0781a43aeec/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-c3f40e0f50" tvg-name="SPORTSCAST + FHD" tvg-logo="" group-title="News",SPORTSCAST + FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/82de1995-f2c0-4673-be92-1bc1f80ef767/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-9083d642c8" tvg-name="SPORTSCAST + FHD" tvg-logo="" group-title="News",SPORTSCAST + FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1b111c6b-2e81-44f7-8eb1-d58407151717/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-3f3da53737" tvg-name="SPORTSCAST + FHD" tvg-logo="" group-title="News",SPORTSCAST + FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e103c772-ced3-4ad9-9f1c-d617d46533e2/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-1e7241016d" tvg-name="SPORTSCAST + FHD" tvg-logo="" group-title="News",SPORTSCAST + FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c3ed4f07-ac57-4da5-8d20-81ce6aa36bba/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-bf346a03c6" tvg-name="SPORTSCAST + FHD" tvg-logo="" group-title="News",SPORTSCAST + FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bdef0456-8fd3-4c4d-822f-a2e4e1bc8863/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-cbfbada060" tvg-name="SPORTSCAST + FHD" tvg-logo="" group-title="News",SPORTSCAST + FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3afc659e-bb25-4144-ae5b-691a5ae1692a/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-42a6c84cc9" tvg-name="SPORTSCAST + FHD" tvg-logo="" group-title="News",SPORTSCAST + FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b6b1ec85-6c87-41ab-968e-9c43617403a8/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-c6d09bc43f" tvg-name="SPORTSCAST + FHD" tvg-logo="" group-title="News",SPORTSCAST + FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0436b400-9f9e-47e9-b8b4-7e88824716d3/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-a3b252c985" tvg-name="SPORTSCAST + FHD" tvg-logo="" group-title="News",SPORTSCAST + FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/31c6f555-1725-4e72-b6ea-ce09e4b9e5d0/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-9a953c0c0b" tvg-name="SPORTSCAST + FHD" tvg-logo="" group-title="News",SPORTSCAST + FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3cd7b7b5-54b6-4fa8-8fb3-44e14046a6bd/master.m3u8
 #EXTINF:-1 tvg-id="sky-sports-epl-fhd-34f3f918c8" tvg-name="SKY SPORTS EPL - FHD" tvg-logo="" group-title="Sports",SKY SPORTS EPL - FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -962,10 +1101,22 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
+#EXTINF:-1 tvg-id="sportscast-fhd-dc72154b32" tvg-name="SPORTSCAST FHD" tvg-logo="" group-title="News",SPORTSCAST FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/98aed5e3-dadb-4302-970c-df94cfcb2b80/master.m3u8
 #EXTINF:-1 tvg-id="stream-tv-hd-7465e4c9ad" tvg-name="STREAM TV + HD" tvg-logo="" group-title="Entertainment",STREAM TV + HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="hd-quality-5d63d08038" tvg-name="HD QUALITY" tvg-logo="" group-title="General",HD QUALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live2.jorvakstreamcache.com/live/channel28.m3u8
+#EXTINF:-1 tvg-id="hd-quality-bae232fc5e" tvg-name="HD QUALITY" tvg-logo="" group-title="General",HD QUALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
 #EXTINF:-1 tvg-id="caze-tv-fhd-a7d87f59b7" tvg-name="CAZE TV FHD" tvg-logo="" group-title="Sports",CAZE TV FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -980,6 +1131,13 @@ https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87bb04/index.mpd
+#EXTINF:-1 tvg-id="fhd-stream-99e4bbf0e8" tvg-name="FHD STREAM" tvg-logo="" group-title="General",FHD STREAM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd
 #EXTINF:-1 tvg-id="fhd-streaming-fe0085744e" tvg-name="FHD STREAMING" tvg-logo="" group-title="General",FHD STREAMING
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1002,6 +1160,29 @@ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=LS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/15c1da1b-c238-4265-9a01-2f0ca8ef50e5/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-520f829e33" tvg-name="SPORTSCAST FHD" tvg-logo="" group-title="News",SPORTSCAST FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3ddd6af2-8c58-4610-b44c-e2a724fa4d46/master.m3u8
+#EXTINF:-1 tvg-id="sportdigital-fussball-d682109215" tvg-name="SportDigital Fussball" tvg-logo="" group-title="News",SportDigital Fussball
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
+#EXTINF:-1 tvg-id="sportscast-fhd-b34f7a8feb" tvg-name="SPORTSCAST FHD" tvg-logo="" group-title="News",SPORTSCAST FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d822948f-b3ec-43b0-b5f1-f64208cd05d2/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-dc8209ece3" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/da0cc56e-934c-43f8-8ee8-5edba9466a42/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-44607d8c5f" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a6d11230-6ef6-4c8e-bf96-763e61da67da/master.m3u8
 #EXTINF:-1 tvg-id="canal-5-006a35ffc3" tvg-name="CANAL 5" tvg-logo="" group-title="General",CANAL 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1030,6 +1211,21 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
+#EXTINF:-1 tvg-id="cazetv-fhd-2c55e6d5ec" tvg-name="CazéTV FHD" tvg-logo="" group-title="Entertainment",CazéTV FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd
+#EXTINF:-1 tvg-id="sportscast-5d2007fb28" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ef8e2adf-6187-437b-be49-b1ae0155a944/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-117467ae23" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0a52b7eb-58e7-4bf9-a453-5634a1c64f67/master.m3u8
 #EXTINF:-1 tvg-id="bein-english-fhd-bb33f26324" tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="Sports",beIN ENGLISH FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1037,6 +1233,13 @@ https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
+#EXTINF:-1 tvg-id="fubo-sports-fhd-63718e7663" tvg-name="FUBO SPORTS FHD" tvg-logo="" group-title="News",FUBO SPORTS FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd?aws_sessionId=1ef6eb9e-d401-4740-9a61-3c839ba3f2da
 #EXTINF:-1 tvg-id="fancode-sd-cbe5a9e560" tvg-name="FANCODE SD" tvg-logo="" group-title="General",FANCODE SD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1048,10 +1251,30 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+#EXTINF:-1 tvg-id="sportscast-278c453349" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dfbb8d17-042a-4372-8be2-8cca5e2b40af/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-348196e7ec" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e62295d7-ae7a-4ddb-853f-250c7dcd47cd/master.m3u8
 #EXTINF:-1 tvg-id="cricbuzz-hd-be5c3bb87e" tvg-name="CRICBUZZ HD" tvg-logo="" group-title="General",CRICBUZZ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://baila-lentoo.pages.dev/all-sp/809382.m3u8
+#EXTINF:-1 tvg-id="hd-quality-9aea64bf9e" tvg-name="HD QUALITY" tvg-logo="" group-title="General",HD QUALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live2.jorvakstreamcache.com/live/channel2.m3u8?
+#EXTINF:-1 tvg-id="hd-quality-tv-52cb44630a" tvg-name="HD QUALITY TV" tvg-logo="" group-title="Entertainment",HD QUALITY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live2.jorvakstreamcache.com/live/channel4.m3u8?
+#EXTINF:-1 tvg-id="hd-quality-a12e24b330" tvg-name="HD QUALITY" tvg-logo="" group-title="General",HD QUALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live2.jorvakstreamcache.com/live/channel17.m3u8?
 #EXTINF:-1 tvg-id="hd-quality-2-24f3a3ffe4" tvg-name="HD QUALITY 2" tvg-logo="" group-title="General",HD QUALITY 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -1064,6 +1287,102 @@ https://vix.cdnfan.site/event/nba3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://vix.cdnfan.site/event/nhl10.m3u8
+#EXTINF:-1 tvg-id="nhl-hd-193f065e3c" tvg-name="NHL HD" tvg-logo="" group-title="Sports",NHL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nhl5.m3u8
+#EXTINF:-1 tvg-id="nhl-hd-0299c82bb1" tvg-name="NHL HD" tvg-logo="" group-title="Sports",NHL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nhl6.m3u8
+#EXTINF:-1 tvg-id="nhl-hd-c7c23d61c2" tvg-name="NHL HD" tvg-logo="" group-title="Sports",NHL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nhl8.m3u8
+#EXTINF:-1 tvg-id="nba-fhd-dfb77fd632" tvg-name="NBA FHD" tvg-logo="" group-title="Sports",NBA FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nba1.m3u8
+#EXTINF:-1 tvg-id="nhl-hd-b115bbe118" tvg-name="NHL HD" tvg-logo="" group-title="Sports",NHL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nhl3.m3u8
+#EXTINF:-1 tvg-id="nhl-hd-f5b1c0f4db" tvg-name="NHL HD" tvg-logo="" group-title="Sports",NHL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nhl2.m3u8
+#EXTINF:-1 tvg-id="nhl-hd-197efae8d0" tvg-name="NHL HD" tvg-logo="" group-title="Sports",NHL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nhl7.m3u8
+#EXTINF:-1 tvg-id="nhl-hd-3ca932581b" tvg-name="NHL HD" tvg-logo="" group-title="Sports",NHL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nhl1.m3u8
+#EXTINF:-1 tvg-id="nba-fhd-7d9feb7669" tvg-name="NBA FHD" tvg-logo="" group-title="Sports",NBA FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nba4.m3u8
+#EXTINF:-1 tvg-id="nba-fhd-801a41cb80" tvg-name="NBA FHD" tvg-logo="" group-title="Sports",NBA FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nba2.m3u8
+#EXTINF:-1 tvg-id="nhl-hd-ebd67fd9b8" tvg-name="NHL HD" tvg-logo="" group-title="Sports",NHL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nhl9.m3u8
+#EXTINF:-1 tvg-id="nhl-hd-f77791ceb0" tvg-name="NHL HD" tvg-logo="" group-title="Sports",NHL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nhl11.m3u8
+#EXTINF:-1 tvg-id="nhl-hd-b7bd5be865" tvg-name="NHL HD" tvg-logo="" group-title="Sports",NHL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nhl4.m3u8
+#EXTINF:-1 tvg-id="sportscast-1d17f2c41c" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/744be529-017c-4a6e-a556-1fda215ca36a/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-1967bf7d49" tvg-name="SPORTSCAST FHD" tvg-logo="" group-title="News",SPORTSCAST FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5d000b93-cecd-4655-8773-4541db9da178/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-79a7f340b6" tvg-name="SPORTSCAST FHD" tvg-logo="" group-title="News",SPORTSCAST FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a11b1dc9-eb27-4766-8000-6a9e40758175/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-d831d4b861" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5f3b29d1-9076-4e88-bea5-5de7d5e4a6c3/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-4bd5a9b859" tvg-name="SPORTSCAST FHD" tvg-logo="" group-title="News",SPORTSCAST FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/04c43fc7-415b-4f08-a588-9280904c3505/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-5a46809b0a" tvg-name="SPORTSCAST FHD" tvg-logo="" group-title="News",SPORTSCAST FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b7c20b1d-9dfc-4d17-9faa-f005e020c483/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-1f7226247f" tvg-name="SPORTSCAST FHD" tvg-logo="" group-title="News",SPORTSCAST FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/aa5103c6-ff17-45c6-8109-efc50c0ca289/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-aa10562d4a" tvg-name="SPORTSCAST FHD" tvg-logo="" group-title="News",SPORTSCAST FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/08367306-7691-434e-b6e1-e7d47dc3dbc3/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-481aee9ca0" tvg-name="SPORTSCAST FHD" tvg-logo="" group-title="News",SPORTSCAST FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0c1922f1-213e-436d-b6b6-f769afa4fb67/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-9b445910f9" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/48637341-f903-44be-b068-8bb37c4ed61d/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-fhd-e817bdf468" tvg-name="SPORTSCAST FHD" tvg-logo="" group-title="News",SPORTSCAST FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f4ed3e16-2290-423c-ade4-c6b4b299a47f/master.m3u8
 #EXTINF:-1 tvg-id="t-sports-hd-ca0387c6ca" tvg-name="T SPORTS HD" tvg-logo="" group-title="Sports",T SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -1098,10 +1417,76 @@ https://baila-lentoo.pages.dev/all-sp/373201.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://vix.cdnfan.site/channel/skysportde5.m3u8
+#EXTINF:-1 tvg-id="sky-sport-de-820c3cc049" tvg-name="SKY SPORT DE" tvg-logo="" group-title="News",SKY SPORT DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/channel/skysportde3.m3u8
+#EXTINF:-1 tvg-id="sky-sport-de-9c0965c628" tvg-name="Sky Sport DE" tvg-logo="" group-title="News",Sky Sport DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/channel/skysportde6.m3u8
+#EXTINF:-1 tvg-id="sky-sport-de-ea1cad6a62" tvg-name="SKY SPORT DE" tvg-logo="" group-title="News",SKY SPORT DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/channel/skysportde4.m3u8
+#EXTINF:-1 tvg-id="fubo-sports-fhd-82e63addbf" tvg-name="FUBO SPORTS FHD" tvg-logo="" group-title="News",FUBO SPORTS FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mibl1kagx8/out/v1/38d1a6a0ee4e4ff2aa8b760d07cabb9e/cenc.mpd?aws_sessionId=5e644da5-6070-45d0-ae09-00039e7072c1
+#EXTINF:-1 tvg-id="hd-quality-3269abd86f" tvg-name="HD QUALITY" tvg-logo="" group-title="General",HD QUALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live2.jorvakstreamcache.com/live/channel10.m3u8?
+#EXTINF:-1 tvg-id="stream-tv-hd-770b67f43b" tvg-name="STREAM TV + HD" tvg-logo="" group-title="Entertainment",STREAM TV + HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 #EXTINF:-1 tvg-id="nba-pass-beaff9a1b2" tvg-name="NBA PASS" tvg-logo="" group-title="Sports",NBA PASS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://vix.cdnfan.site/event/nba5.m3u8
+#EXTINF:-1 tvg-id="nba-pass-5b745fb9c2" tvg-name="NBA PASS" tvg-logo="" group-title="Sports",NBA PASS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nba7.m3u8
+#EXTINF:-1 tvg-id="nba-pass-7274b07eb6" tvg-name="NBA PASS" tvg-logo="" group-title="Sports",NBA PASS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nba10.m3u8
+#EXTINF:-1 tvg-id="nba-pass-9310a252df" tvg-name="NBA PASS" tvg-logo="" group-title="Sports",NBA PASS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nba9.m3u8
+#EXTINF:-1 tvg-id="nba-pass-7ae1e9899a" tvg-name="NBA PASS" tvg-logo="" group-title="Sports",NBA PASS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nba8.m3u8
+#EXTINF:-1 tvg-id="nba-pass-abcec98854" tvg-name="NBA PASS" tvg-logo="" group-title="Sports",NBA PASS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nba6.m3u8
+#EXTINF:-1 tvg-id="nba-pass-8136027086" tvg-name="NBA PASS" tvg-logo="" group-title="Sports",NBA PASS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nba12.m3u8
+#EXTINF:-1 tvg-id="nba-pass-3dfc3e6f52" tvg-name="NBA PASS" tvg-logo="" group-title="Sports",NBA PASS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://vix.cdnfan.site/event/nba11.m3u8
+#EXTINF:-1 tvg-id="sportscast-90c10fa47f" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/36aa768a-16cb-495f-8066-957a8bb43740/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-b4dc092aa3" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2ac0157a-eaae-4438-b6bb-fce86717d513/master.m3u8
 #EXTINF:-1 tvg-id="fox-cricket-hd-61eea7b134" tvg-name="FOX CRICKET HD" tvg-logo="" group-title="Sports",FOX CRICKET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -1120,6 +1505,13 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/ab
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd
+#EXTINF:-1 tvg-id="fubo-sports-fhd-1559d10c43" tvg-name="FUBO SPORTS FHD" tvg-logo="" group-title="News",FUBO SPORTS FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd?aws_sessionId=73f4fa42-d4a7-4aaa-8ec3-f6f7f679d31d
 #EXTINF:-1 tvg-id="supersport-716b3b2102" tvg-name="SUPERSPORT" tvg-logo="" group-title="Sports",SUPERSPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -1131,6 +1523,57 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-id="fhd-streaming-446d623990" tvg-name="FHD STREAMING" tvg-logo="" group-title="General",FHD STREAMING
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd
+#EXTINF:-1 tvg-id="sportscast-2828a3b3bc" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/baa18ad9-9d8c-4403-87f6-9cc6853cc7ee/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-4dac77669b" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d7c1d7a2-388a-4d9b-ac12-818abcd6e0cd/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-0c4748d1b3" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dc80cfef-9097-47a1-bf3b-19f2ebbfb490/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-efb7fddf62" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/235507e6-c693-47d5-846e-06dea2730054/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-7a34d71cad" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/54e43b20-229f-4199-a2de-49d5a0035377/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-48fd679557" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dc6be1b1-2fcf-4036-8f05-b8520dd8a93b/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-16810d18a1" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/06cf78b9-1a82-4644-bf0a-0c01ee1ab8dd/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-bde5df535f" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d5519b62-643f-436d-852a-b64b85dac59b/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-3001eebbfe" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3ded7b48-6e41-41e1-b303-9f44ba003c1f/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-e448b7cb0a" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/53f5c0a8-b5bf-4232-9656-c73a25d7cbc2/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-f94b110211" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/de61d66c-462b-4cf6-8730-3ef534ffc1ae/master.m3u8
 #EXTINF:-1 tvg-id="bein-sports-fhd-d820c079fe" tvg-name="beIN SPORTS FHD" tvg-logo="" group-title="Sports",beIN SPORTS FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1138,6 +1581,59 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xuvcbrlxmb/out/v1/27aac1f9df984d65a9d4b95d234f4468/cenc.mpd?aws_sessionId=9cc7d647-12ea-46fa-8e5f-e801e6c74cc8
+#EXTINF:-1 tvg-id="bein-sports-fhd-ec402798a1" tvg-name="beIN SPORTS FHD" tvg-logo="" group-title="Sports",beIN SPORTS FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fb0ddc7e384e78dea1868457c21fc7d:88f26e97ed7f41070644f8519fd4d2ae
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xnypecepsc/out/v1/0cb42f7039694b3199d1cd2cba7a5ddb/cenc.mpd
+#EXTINF:-1 tvg-id="sportscast-70df53530a" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/58464152-0ce6-4e18-a3c1-393ba5669a09/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-ff1da5a91f" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/866858a4-a1d3-47a5-ac2e-de947aea7d7d/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-87f8a9b6f6" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c0532b8f-13eb-4df7-95b1-910947bda427/master.m3u8
+#EXTINF:-1 tvg-id="fubo-sports-fhd-012e691a56" tvg-name="FUBO SPORTS FHD" tvg-logo="" group-title="News",FUBO SPORTS FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd?aws_sessionId=5a6190a9-56e9-4cee-bb0d-1d9783ce201f
+#EXTINF:-1 tvg-id="fubo-sports-fhd-c6a67126df" tvg-name="FUBO SPORTS FHD" tvg-logo="" group-title="News",FUBO SPORTS FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd?aws_sessionId=8d45c228-1387-4e0b-a198-16721583b6e1
+#EXTINF:-1 tvg-id="sportscast-5a1f73406f" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d65e36d8-dcd9-44e8-bd3d-8e4b374cf32a/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-4b3c0c6d73" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/482ecdab-f851-435a-ae3b-d152937229d7/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-69587a5432" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f38259fb-2171-4893-9cfa-c78d2d277ff6/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-a6ed0c0fcc" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bb86b832-7461-4674-8f1d-33593f7bb062/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-7ec78ea4d2" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dcb93224-a9dc-4946-afb0-fdd6a6e7897d/master.m3u8
 #EXTINF:-1 tvg-id="caze-tv-3-fhd-5ce5822400" tvg-name="Caze TV 3 FHD" tvg-logo="" group-title="Sports",Caze TV 3 FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1145,10 +1641,33 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xuvcbrlxmb/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
+#EXTINF:-1 tvg-id="sportscast-fec424c4d0" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/88c6e09f-bd95-4caf-9a07-e6c22de02cfc/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-153aac1164" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/679d2fc3-490a-4162-849f-0c2fc50fef06/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-0cc9e5dd6f" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f368a4f2-4915-40e9-bdad-e356778b170a/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-a2146bf0d3" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/81c23f42-30d9-4db1-82f1-e31d0a4e38d4/master.m3u8
 #EXTINF:-1 tvg-id="sony-sports-hd-5be5496f6b" tvg-name="SONY SPORTS HD" tvg-logo="" group-title="Sports",SONY SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallinonereborn2.online%2Fsony-new%2Fplaylists%2Fsony_ten2_hd.m3u8
+#EXTINF:-1 tvg-id="fubo-sports-fhd-e45b5659a9" tvg-name="FUBO SPORTS FHD" tvg-logo="" group-title="News",FUBO SPORTS FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cj9ylmqsf0/out/v1/0ee8b60f8f9f4da2a4ef153a1c5df21b/cenc.mpd?aws_sessionId=47d1cddf-795e-45c4-b031-266761b8e28c
 #EXTINF:-1 tvg-id="laliga-hypermotion-e006307d39" tvg-name="LaLiga Hypermotion" tvg-logo="" group-title="Sports",LaLiga Hypermotion
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1156,6 +1675,49 @@ https://allinonereborn2.online/livtest3/stream_proxy.php?url=https%3A%2F%2Fallin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+#EXTINF:-1 tvg-id="bein-sports-fhd-ea32f0fafc" tvg-name="beIN SPORTS FHD" tvg-logo="" group-title="Sports",beIN SPORTS FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd
+#EXTINF:-1 tvg-id="bein-sports-fhd-36bd4441cb" tvg-name="beIN SPORTS FHD" tvg-logo="" group-title="Sports",beIN SPORTS FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?aws_sessionId=61680024-9246-43b6-8499-8369b0070330
+#EXTINF:-1 tvg-id="fubo-sports-fhd-071dc44d5f" tvg-name="FUBO SPORTS FHD" tvg-logo="" group-title="News",FUBO SPORTS FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd?aws_sessionId=882cb45b-b0fd-4d57-999a-97cbc604a9b0
+#EXTINF:-1 tvg-id="bein-sports-fhd-ba9e0f1dec" tvg-name="beIN SPORTS FHD" tvg-logo="" group-title="Sports",beIN SPORTS FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?aws_sessionId=d7a79a64-4f97-438f-b860-44a258064025
+#EXTINF:-1 tvg-id="fubo-sports-fhd-0204b8d8c5" tvg-name="FUBO SPORTS FHD" tvg-logo="" group-title="News",FUBO SPORTS FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd?aws_sessionId=d2c69f3e-2fc0-4075-b0f0-5d4281d3e718
+#EXTINF:-1 tvg-id="sportscast-469615802b" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/05d2718d-f393-47ac-968c-1480cfcafbd8/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-f8daf163cb" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a26232a0-42be-46b7-8b8e-12473fd156a4/master.m3u8
 #EXTINF:-1 tvg-id="bein-sports-alt-0a95cad1c5" tvg-name="beIN SPORTS ALT" tvg-logo="" group-title="Sports",beIN SPORTS ALT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1163,6 +1725,29 @@ https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xuvcbrlxmb/out/v1/27aac1f9df984d65a9d4b95d234f4468/cenc.mpd
+#EXTINF:-1 tvg-id="sportscast-6514406a83" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d2fe599d-59fc-48f8-bf03-e99b0efad61f/master.m3u8
+#EXTINF:-1 tvg-id="bein-english-fhd-cd5d0618ec" tvg-name="beIN ENGLISH FHD" tvg-logo="" group-title="Sports",beIN ENGLISH FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?
+#EXTINF:-1 tvg-id="sportscast-017216fc94" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c530615b-48ba-40bb-861b-be98bd6893f6/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-785b36776e" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/599ab99b-6129-45d8-af46-6db1fc6bebd1/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-9b790ec713" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c68d3f71-aaca-49f6-a3a0-e61a7ea62a0c/master.m3u8
 #EXTINF:-1 tvg-id="fancode-2-01bbe1ec8e" tvg-name="FANCODE 2" tvg-logo="" group-title="General",FANCODE 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1170,6 +1755,38 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xuvcbrlxmb/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+#EXTINF:-1 tvg-id="sonyliv-asia-1b1577c6e1" tvg-name="SonyLiv (Asia)" tvg-logo="" group-title="General",SonyLiv (Asia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/footlive0311/ENG/std_lrh-800300010.m3u8
+#EXTINF:-1 tvg-id="sonyliv-asia-b83ecd22d1" tvg-name="SonyLiv (Asia)" tvg-logo="" group-title="General",SonyLiv (Asia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/footlive0311/ENG/std_lrh-800300010.m3u8
+#EXTINF:-1 tvg-id="hd-quality-84aec420cd" tvg-name="HD QUALITY" tvg-logo="" group-title="General",HD QUALITY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live2.jorvakstreamcache.com/live/channel20.m3u8?
+#EXTINF:-1 tvg-id="sonyliv-asia-1dfa19d8b2" tvg-name="SonyLiv (Asia)" tvg-logo="" group-title="General",SonyLiv (Asia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/footlive0311/ENG/std_lrh-800300010.m3u8
+#EXTINF:-1 tvg-id="sonyliv-asia-14f0f7574e" tvg-name="SonyLiv (Asia)" tvg-logo="" group-title="General",SonyLiv (Asia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/footlive0311/ENG/std_lrh-800300010.m3u8
+#EXTINF:-1 tvg-id="sonyliv-asia-2797d10933" tvg-name="SonyLiv (Asia)" tvg-logo="" group-title="General",SonyLiv (Asia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094587/footlive0311/ENG/std_lrh-800300010.m3u8
+#EXTINF:-1 tvg-id="sonyliv-asia-2dd8cf332a" tvg-name="SonyLiv (Asia)" tvg-logo="" group-title="General",SonyLiv (Asia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/footlive0311/ENG/std_lrh-800300010.m3u8
+#EXTINF:-1 tvg-id="sonyliv-asia-7c77ae0214" tvg-name="SonyLiv (Asia)" tvg-logo="" group-title="General",SonyLiv (Asia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/footlive0311/ENG/std_lrh-800300010.m3u8
 #EXTINF:-1 tvg-id="sonyliv-hin-2ebb78bae9" tvg-name="SonyLiv (HIN)" tvg-logo="" group-title="General",SonyLiv (HIN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -1186,10 +1803,69 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/footlive0311/TAM/std_lrh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120307/footlive0311/TEL/std_lrh-800300010.m3u8
+#EXTINF:-1 tvg-id="sonyliv-asia-c6137c088d" tvg-name="SonyLiv (Asia)" tvg-logo="" group-title="General",SonyLiv (Asia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/footlive0311/ENG/std_lrh-800300010.m3u8
 #EXTINF:-1 tvg-id="sonyliv-eng-c78a4da9ac" tvg-name="SonyLiv (ENG)" tvg-logo="" group-title="General",SonyLiv (ENG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/footlive0311/ENG/std_lrh-800300010.m3u8
+#EXTINF:-1 tvg-id="sportscast-a01cc4f373" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/665305a7-d859-400e-b8b8-b459b9be4c39/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-9ed890352a" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1294e904-6b61-4ed9-9203-730e3dcbfd6c/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-0524bf57ba" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0598daf8-4455-4ab0-833a-5379d0f15281/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-0652ff1be1" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a57d3f53-60dc-4172-aba5-7bc27e9b901b/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-390efde6e2" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/151f9017-d83d-4a44-a7b0-1ba9532ae4d3/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-d57a951a51" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/764d520e-299f-4983-8c18-9276df7fd9e5/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-526aaf413d" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/66e84992-d9a5-44d1-9087-fae837e59992/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-a124f46b3d" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ce68b395-48a2-42ce-b4ee-8b33cc6d6306/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-2922fb2139" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/77f48240-887f-4718-b965-751daf9e5280/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-2d6dde6a50" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/70475a7f-f002-464e-bd9d-4783f0697470/master.m3u8
+#EXTINF:-1 tvg-id="sportscast-5d200e1c1d" tvg-name="SPORTSCAST" tvg-logo="" group-title="News",SPORTSCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/709f3019-2998-445d-80dc-abe57af97387/master.m3u8
+#EXTINF:-1 tvg-id="stream-tv-hd-495e8894b7" tvg-name="STREAM TV + HD" tvg-logo="" group-title="Entertainment",STREAM TV + HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="willow-alt-0a9fa2204a" tvg-name="WILLOW ALT" tvg-logo="" group-title="Sports",WILLOW ALT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a028d5592b0e81f9c4fd4de4df6d5c7:9378d2ddd738b2d0b7a85ba65b643a7f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/4dwybz2taj/out/v1/c90ad7bb77af498083f47bf86b7999b7/cenc.mpd
 #EXTINF:-1 tvg-id="prime-hindi-fhd-e563059d54" tvg-name="PRIME HINDI FHD" tvg-logo="" group-title="General",PRIME HINDI FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1218,10 +1894,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/s3eotogzpl/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w6mcmg5vcu/out/v1/45db9febe2b64d59a5ecd2181616a9db/cenc.mpd
-#EXTINF:-1 tvg-id="star-sports-1-hindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://tv.tawseer.com/files/SS1HD_1786557023650_40cc63980755dc9c.webp" group-title="Sports",Star Sports 1 Hindi
+#EXTINF:-1 tvg-id="star-sports-1-hindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://tv.tawseer.com/files/SS1HD_1786557023650_40cc63980755dc9c.webp" group-title="Sports",Star Sports 1 Hindi (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://starsportshindiii.pages.dev/720p.m3u8
+#EXTINF:-1 tvg-id="star-sports-1-hindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://tv.tawseer.com/files/SS1HD_1786557023650_40cc63980755dc9c.webp" group-title="Sports",Star Sports 1 Hindi (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://tvsen3.aynaott.com/Sports1/mono.m3u8
 #EXTINF:-1 tvg-id="star-sports-1" tvg-name="Star Sports 1" tvg-logo="https://tv.tawseer.com/files/SS1HD_1786557023650_40cc63980755dc9c.webp" group-title="Sports",Star Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -1286,10 +1966,14 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://a-cdn.klowdtv.com/live2/france24_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="atn-news" tvg-name="ATN News" tvg-logo="https://tv.tawseer.com/files/ant_news_1787816804445_2edcfcc7edb5d60c.webp" group-title="News",ATN News
+#EXTINF:-1 tvg-id="atn-news" tvg-name="ATN News" tvg-logo="https://tv.tawseer.com/files/ant_news_1787816804445_2edcfcc7edb5d60c.webp" group-title="News",ATN News (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1 tvg-id="atn-news" tvg-name="ATN News" tvg-logo="https://tv.tawseer.com/files/ant_news_1787816804445_2edcfcc7edb5d60c.webp" group-title="News",ATN News (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
+https://tv.tawseer.com/api/hridoy-tv-direct/stream/atnnews
 #EXTINF:-1 tvg-id="india-today-1" tvg-name="India Today 1" tvg-logo="https://i.imgur.com/koFYddE.png" group-title="News",India Today 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
