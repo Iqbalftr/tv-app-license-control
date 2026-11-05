@@ -20,9 +20,9 @@
       "status": "allowed",
       "valid_until": "2030-12-31T23:59:59Z"
     },
-    "SAMPLE_DEVICE_ID_2": {
-      "user_name": "Karim Hossain",
-      "status": "blocked",
+    "72d0b6cbb7c9d46f": {
+      "user_name": "Mi Box S",
+      "status": "allowed",
       "valid_until": "2026-06-01T00:00:00Z"
     }
   }
