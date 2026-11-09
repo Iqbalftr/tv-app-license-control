@@ -2,7 +2,7 @@
   "app_status": {
     "maintenance_mode": false,
     "maintenance_message": "Server under scheduled maintenance. Please check back later.",
-    "global_playlist_url": "https://raw.githubusercontent.com/Iqbalftr/tv-app-license-control/refs/heads/main/skym3u.m3u"
+    "global_playlist_url": "https://raw.githubusercontent.com/Iqbalftr/tv-app-license-control/refs/heads/main/NewPlayList.m3u"
   },
   "devices": {
     "a55d832bc3db7d6a": {
