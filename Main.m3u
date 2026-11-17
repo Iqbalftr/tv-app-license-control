@@ -1,4 +1,4 @@
-#EXTM3U name="xTv Live - Selected Channels (500) (Active Only)"
+#EXTM3U name="xTv Live - Selected Channels (544) (Active Only)"
 #EXTINF:-1 tvg-id="t-sports" tvg-name="T Sports" tvg-logo="https://tv.tawseer.com/files/t_sports_1787865774604_6ed83bad7feb6c2f.webp" group-title="Sports",T Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -114,15 +114,10 @@ https://tv.tawseer.com/api/https?url=http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://tv.thextribune.com/"}
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
-#EXTINF:-1 tvg-id="star-jalsha-hd" tvg-name="Star Jalsha HD" tvg-logo="https://tv.tawseer.com/files/Star_Jalsha_1786332320316_650d491060d69092.webp" group-title="Entertainment",Star Jalsha HD (Server 1)
+#EXTINF:-1 tvg-id="star-jalsha-hd" tvg-name="Star Jalsha HD" tvg-logo="https://tv.tawseer.com/files/Star_Jalsha_1786332320316_650d491060d69092.webp" group-title="Entertainment",Star Jalsha HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://tv.thextribune.com/"}
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-id="star-jalsha-hd" tvg-name="Star Jalsha HD" tvg-logo="https://tv.tawseer.com/files/Star_Jalsha_1786332320316_650d491060d69092.webp" group-title="Entertainment",Star Jalsha HD (Server 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://tv.thextribune.com/"}
+#EXTVLCOPT:http-referrer=https://tv.tawseer.com/api/hridoy-tv-direct/stream/starjalsha
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://tv.tawseer.com/api/hridoy-tv-direct/stream/starjalsha"}
 https://tv.tawseer.com/api/hridoy-tv-direct/stream/starjalsha
 #EXTINF:-1 tvg-id="zee-bangla-hd" tvg-name="Zee Bangla HD" tvg-logo="https://tv.tawseer.com/files/Zee_Bangla_1786332232296_8cbdbdaa857d1403.webp" group-title="Entertainment",Zee Bangla HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -421,8 +416,8 @@ https://tv.tawseer.com/api/https?url=http://158.69.24.53:8080/probashi_tv/index.
 https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="bangla-tv-europe" tvg-name="Bangla TV Europe" tvg-logo="https://tv.tawseer.com/files/bangla_tv_europ_1787814398409_0d68a7ed152b4182.webp" group-title="Entertainment",Bangla TV Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://tv.thextribune.com/"}
+#EXTVLCOPT:http-referrer=https://tv.tawseer.com/api/hridoy-tv-direct/stream/banglatve
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://tv.tawseer.com/api/hridoy-tv-direct/stream/banglatve"}
 https://tv.tawseer.com/api/hridoy-tv-direct/stream/banglatve
 #EXTINF:-1 tvg-id="amar-bangla" tvg-name="Amar Bangla" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Entertainment",Amar Bangla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -632,6 +627,11 @@ https://admin2.formaturamaxi.com.br/nfl.m3u8
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://tv.thextribune.com/"}
 https://admin2.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 tvg-id="laliga-hyp-hd2-7029ab9d72" tvg-name="LALIGA HYP HD2" tvg-logo="" group-title="Sports",LALIGA HYP HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=hypermotion1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=hypermotion1"}
+https://93.domhsd.com:443/hypermotion1/mono.m3u8?token=9eb13b416fa6ae6e3a2a591f1d8369ada3bf2971-2d-1794921186-1794903186
 #EXTINF:-1 tvg-id="sky-sports-epl-fhd-34f3f918c8" tvg-name="SKY SPORTS EPL - FHD" tvg-logo="" group-title="Sports",SKY SPORTS EPL - FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -657,6 +657,11 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://tv.thextribune.com/"}
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=LS7CQgVo3LGHyQW5yphz-g&e=2092722172&scheme=https
+#EXTINF:-1 tvg-id="laliga-hyp-hd2-f7179232d9" tvg-name="LALIGA HYP HD2" tvg-logo="" group-title="Sports",LALIGA HYP HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=hypermotion2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=hypermotion2"}
+https://93.domhsd.com:443/hypermotion2/mono.m3u8?token=037cf4ebf9ecafbc60181d88cbca3ca6ca4a29e4-77-1794921186-1794903186
 #EXTINF:-1 tvg-id="fubo-sports-hd-7732f21b50" tvg-name="FUBO SPORTS HD" tvg-logo="" group-title="Sports",FUBO SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -708,16 +713,101 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/ab
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://tv.thextribune.com/"}
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd
+#EXTINF:-1 tvg-id="espn-hd-1b5d9e32cc" tvg-name="ESPN HD" tvg-logo="" group-title="Sports",ESPN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=espn
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=espn"}
+https://93.domhsd.com:443/espn/mono.m3u8?token=1f743e962df72524038635ecd604822924df0e36-25-1794921186-1794903186
+#EXTINF:-1 tvg-id="espn-deportes-db3334a2d7" tvg-name="ESPN DEPORTES" tvg-logo="" group-title="Sports",ESPN DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=espndeportes
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=espndeportes"}
+https://93.domhsd.com:443/espndeportes/mono.m3u8?token=2d9f07d881e7bbe3cf505896d17fde949afc93bf-23-1794921186-1794903186
+#EXTINF:-1 tvg-id="espn-hd-50ffc86579" tvg-name="ESPN HD" tvg-logo="" group-title="Sports",ESPN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=espn3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=espn3"}
+https://93.domhsd.com:443/espn3/mono.m3u8?token=1de4ff56c72138b142809ddc2243354ef87855e4-9b-1794921186-1794903186
+#EXTINF:-1 tvg-id="disney-hd-c5f897fb00" tvg-name="DISNEY HD" tvg-logo="" group-title="Kids",DISNEY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=disney3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=disney3"}
+https://93.domhsd.com:443/disney3/mono.m3u8?token=5bc83c661f990bd69498dc51e79968bc27335084-c3-1794921186-1794903186
+#EXTINF:-1 tvg-id="disney-7b4a96ab28" tvg-name="DISNEY" tvg-logo="" group-title="Kids",DISNEY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=disney2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=disney2"}
+https://streamtp99a.sbs/global1.php?stream=disney2
 #EXTINF:-1 tvg-id="supersport-716b3b2102" tvg-name="SUPERSPORT" tvg-logo="" group-title="Sports",SUPERSPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://tv.thextribune.com/"}
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8
+#EXTINF:-1 tvg-id="fox-argentina-58c63932e3" tvg-name="FOX ARGENTINA" tvg-logo="" group-title="General",FOX ARGENTINA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=fox1ar
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=fox1ar"}
+https://93.domhsd.com:443/fox1ar/mono.m3u8?token=7bd261a59fdc0dab4d6d36b986ccc0ef2a4cd36e-12-1794921186-1794903186
+#EXTINF:-1 tvg-id="universo-hd-a0041e8230" tvg-name="UNIVERSO HD" tvg-logo="" group-title="General",UNIVERSO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=universo
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=universo"}
+https://93.domhsd.com:443/universo/mono.m3u8?token=79315d963a499ecdd37b77c06f4eca97a6caa621-99-1794921187-1794903187
+#EXTINF:-1 tvg-id="espn-hd7-cfe1e78999" tvg-name="ESPN HD7" tvg-logo="" group-title="Sports",ESPN HD7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=espn7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=espn7"}
+https://93.domhsd.com:443/espn7/mono.m3u8?token=8e285f81fa446f55051ca1aafb12fa2ce5cebe53-f7-1794921188-1794903188
+#EXTINF:-1 tvg-id="stream-tv-hd-bfd0be0213" tvg-name="STREAM TV + HD" tvg-logo="" group-title="Entertainment",STREAM TV + HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=winplus
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=winplus"}
+https://93.domhsd.com:443/winplus/mono.m3u8?token=e2860999ececc2aadfc585ea84dc73f9f5b0326f-8a-1794921188-1794903188
 #EXTINF:-1 tvg-id="hd-quality-2-0cecd0c6e0" tvg-name="HD QUALITY 2" tvg-logo="" group-title="General",HD QUALITY 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://tv.thextribune.com/"}
 https://live2.jorvakstreamcache.com/live/channel21.m3u8?
+#EXTINF:-1 tvg-id="espn-hd-6f470cdc9a" tvg-name="ESPN HD" tvg-logo="" group-title="Sports",ESPN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=espn5
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=espn5"}
+https://93.domhsd.com:443/espn5/mono.m3u8?token=50072a001b8158d8b75ec9cdb5e30fa71a17dc22-4f-1794921193-1794903193
+#EXTINF:-1 tvg-id="espn-hd-2-ad0d317087" tvg-name="ESPN HD 2" tvg-logo="" group-title="Sports",ESPN HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=espn4
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=espn4"}
+https://93.domhsd.com:443/espn4/mono.m3u8?token=e268f6138a1349943a1556f438a6bc740ccc2594-14-1794921193-1794903193
+#EXTINF:-1 tvg-id="telemundo-20ec622fa0" tvg-name="TELEMUNDO" tvg-logo="" group-title="General",TELEMUNDO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=telemundo
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=telemundo"}
+https://93.domhsd.com:443/telemundo/mono.m3u8?token=5dbaceecbb7e7a58c51af746a0f9494a6f1ba0dc-8a-1794921193-1794903193
+#EXTINF:-1 tvg-id="d-sports-90a363aeaa" tvg-name="D SPORTS +" tvg-logo="" group-title="Sports",D SPORTS +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=dsports
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=dsports"}
+https://93.domhsd.com:443/dsports/mono.m3u8?token=19966bc924b71f6b54c4adbe22a419d5f1b24a21-73-1794921193-1794903193
+#EXTINF:-1 tvg-id="espn-prm-d34b8d8e74" tvg-name="ESPN PRM" tvg-logo="" group-title="Sports",ESPN PRM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=espnpremium
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=espnpremium"}
+https://93.domhsd.com:443/espnpremium/mono.m3u8?token=d0a1917d60a81b7d8f776189947afd97130ab053-34-1794921193-1794903193
+#EXTINF:-1 tvg-id="fox-one-4e533c3f9b" tvg-name="FOX ONE" tvg-logo="" group-title="General",FOX ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=foxone1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=foxone1"}
+https://93.domhsd.com:443/foxone1/mono.m3u8?token=aa1af55683eb1884c93aeea90e8aeea34debea1b-f6-1794921193-1794903193
+#EXTINF:-1 tvg-id="tudn-us-831db50f4c" tvg-name="TUDN US" tvg-logo="" group-title="General",TUDN US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=tudnus
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=tudnus"}
+https://93.domhsd.com:443/tudnus/mono.m3u8?token=57f7f8a1c5d803e8c6e7da0339dfc67991614a38-5a-1794921193-1794903193
+#EXTINF:-1 tvg-id="argentina-f35bb08839" tvg-name="ARGENTINA" tvg-logo="" group-title="General",ARGENTINA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=tntar
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=tntar"}
+https://93.domhsd.com:443/tntar/mono.m3u8?token=f741b71072d0006af48903842035c9d82d7fa471-63-1794921194-1794903194
 #EXTINF:-1 tvg-id="sony-sports-hd-5be5496f6b" tvg-name="SONY SPORTS HD" tvg-logo="" group-title="Sports",SONY SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -758,6 +848,16 @@ https://live.msnetworks.net/a-sports/master.m3u8
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://tv.thextribune.com/"}
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
+#EXTINF:-1 tvg-id="tudn-mx-hd-4a29701022" tvg-name="TUDN MX HD" tvg-logo="" group-title="General",TUDN MX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=tudnmx
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=tudnmx"}
+https://93.domhsd.com:443/tudnmx/mono.m3u8?token=990ddd95f686b3a0444268ce273036569dca60b6-e6-1794921194-1794903194
+#EXTINF:-1 tvg-id="fox2-usa-hd-9fdfb1a50b" tvg-name="FOX2 USA HD" tvg-logo="" group-title="General",FOX2 USA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp99a.sbs/global1.php?stream=fox2usa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://streamtp99a.sbs/global1.php?stream=fox2usa"}
+https://93.domhsd.com:443/fox2usa/mono.m3u8?token=e5bc1c7dae46551dc3e90df95f9753a0f242a60e-d6-1794921194-1794903194
 #EXTINF:-1 tvg-id="bein-sports-hd-5c1b7a0fc3" tvg-name="beIN SPORTS HD" tvg-logo="" group-title="Sports",beIN SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
@@ -853,15 +953,10 @@ https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 #EXTVLCOPT:http-referrer=https://tv.thextribune.com/
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://tv.thextribune.com/"}
 https://a-cdn.klowdtv.com/live2/france24_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="atn-news" tvg-name="ATN News" tvg-logo="https://tv.tawseer.com/files/ant_news_1787816804445_2edcfcc7edb5d60c.webp" group-title="News",ATN News (Server 1)
+#EXTINF:-1 tvg-id="atn-news" tvg-name="ATN News" tvg-logo="https://tv.tawseer.com/files/ant_news_1787816804445_2edcfcc7edb5d60c.webp" group-title="News",ATN News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://tv.thextribune.com/"}
-https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
-#EXTINF:-1 tvg-id="atn-news" tvg-name="ATN News" tvg-logo="https://tv.tawseer.com/files/ant_news_1787816804445_2edcfcc7edb5d60c.webp" group-title="News",ATN News (Server 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tv.thextribune.com/
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://tv.thextribune.com/"}
+#EXTVLCOPT:http-referrer=https://tv.tawseer.com/api/hridoy-tv-direct/stream/atnnews
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36","Referer":"https://tv.tawseer.com/api/hridoy-tv-direct/stream/atnnews"}
 https://tv.tawseer.com/api/hridoy-tv-direct/stream/atnnews
 #EXTINF:-1 tvg-id="india-today-1" tvg-name="India Today 1" tvg-logo="https://i.imgur.com/koFYddE.png" group-title="News",India Today 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
