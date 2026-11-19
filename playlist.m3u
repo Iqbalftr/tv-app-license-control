@@ -1,0 +1,27 @@
+#EXTM3U name="xTv Live - Selected Channels (12) (TV Safe)"
+#EXTINF:-1 tvg-id="deepto_tv" tvg-name="Deepto TV" tvg-logo="https://tv.tawseer.com/files/Deepto_TV_1784913192871_c425969725fffdec.webp" group-title="Entertainment",Deepto TV
+https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Entertainment",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1 tvg-id="idmantv" tvg-name="IDMANTV" tvg-logo="" group-title="Entertainment",IDMANTV
+https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sky_sports_epl_-_fhd" tvg-name="SKY SPORTS EPL - FHD" tvg-logo="" group-title="Sports",SKY SPORTS EPL - FHD
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=
+#EXTINF:-1 tvg-id="sky_sports_fhd" tvg-name="SKY SPORTS FHD" tvg-logo="" group-title="Sports",SKY SPORTS FHD
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=LS7CQgVo3LGHyQW5yphz-g&e=2092722172&scheme=https
+#EXTINF:-1 tvg-id="t_sports_hd_2" tvg-name="T SPORTS HD 2" tvg-logo="" group-title="Sports",T SPORTS HD 2
+http://103.16.24.4:8083/14.m3u8
+#EXTINF:-1 tvg-id="sky_sports_pl_fhd" tvg-name="SKY SPORTS PL FHD" tvg-logo="" group-title="Sports",SKY SPORTS PL FHD
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eXsDq9RXXLqUQkamaHEreA&e=2075749056&scheme=https
+#EXTINF:-1 tvg-id="star_sports_1_hindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://tv.tawseer.com/files/SS1HD_1786557023650_40cc63980755dc9c.webp" group-title="Sports",Star Sports 1 Hindi (Server 1)
+https://starsportshindiii.pages.dev/720p.m3u8
+#EXTINF:-1 tvg-id="star_sports_1_hindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://tv.tawseer.com/files/SS1HD_1786557023650_40cc63980755dc9c.webp" group-title="Sports",Star Sports 1 Hindi (Server 2)
+https://tvsen3.aynaott.com/Sports1/mono.m3u8
+#EXTINF:-1 tvg-id="star_sports_1" tvg-name="Star Sports 1" tvg-logo="https://tv.tawseer.com/files/SS1HD_1786557023650_40cc63980755dc9c.webp" group-title="Sports",Star Sports 1
+https://tvsen3.aynaott.com/Sports1/mono.m3u8
+#EXTINF:-1 tvg-id="star_sports_select_1" tvg-name="Star Sports Select 1" tvg-logo="https://tv.tawseer.com/files/stars1_1786629157819_fef9f5547f24b187.webp" group-title="Sports",Star Sports Select 1
+https://tvsen3.aynaott.com/Sports1/mono.m3u8
+#EXTINF:-1 tvg-id="ntv_europe" tvg-name="NTV Europe" tvg-logo="https://play-lh.googleusercontent.com/VL2R8JVwHx4PtQPmNYG2oP7o22HOuGDy3mQZXa-uEhjRLAqpgZjL5yk0vlBaGnt7KQ" group-title="Entertainment",NTV Europe
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="sky_sports_cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://tv.tawseer.com/files/Sky_sports_main_cricket_1784792908496_b49a070bda5ab3a3.webp" group-title="Sports",Sky Sports Cricket
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
