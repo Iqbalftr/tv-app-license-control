@@ -37,7 +37,7 @@
       "user_name": "Tizen Emulator",
       "device_type": "Smart TV (Samsung / LG)",
       "email": "iqbalfur",
-      "status": "blocked",
+      "status": "allowed",
       "valid_until": "2030-12-31T23:59:59Z"
     }
   }
