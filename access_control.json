@@ -21,11 +21,15 @@
     },
     "b1138d1c356eb21a": {
       "user_name": "Shajjad Hossain",
+      "device_type": "Android TV",
+      "email": "",
       "status": "allowed",
       "valid_until": "2026-12-31T23:59:59Z"
     },
     "b4bdbdf40df53e97": {
       "user_name": "Rahat Hossain",
+      "device_type": "Mobile Phone (Android)",
+      "email": "",
       "status": "allowed",
       "valid_until": "2030-12-31T23:59:59Z"
     },
