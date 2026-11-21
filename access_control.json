@@ -39,6 +39,13 @@
       "email": "iqbalfur",
       "status": "allowed",
       "valid_until": "2030-12-31T23:59:59Z"
+    },
+    "0645f6a3c50f4d51": {
+      "user_name": "Smasung Smart TV",
+      "device_type": "Smart TV (Samsung / LG)",
+      "email": "iqbalftr@gmail.com",
+      "status": "allowed",
+      "valid_until": "2030-12-31T23:59:59Z"
     }
   }
 }
