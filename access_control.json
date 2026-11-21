@@ -18,6 +18,13 @@
       "email": "",
       "status": "allowed",
       "valid_until": "2030-12-31T23:59:59Z"
+    },
+    "56278cbf95024ff7": {
+      "user_name": "Android Studio",
+      "device_type": "Android TV",
+      "email": "iqbalftr",
+      "status": "allowed",
+      "valid_until": "2030-12-31T23:59:59Z"
     }
   }
 }
