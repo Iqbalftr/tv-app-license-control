@@ -5,20 +5,6 @@
     "global_playlist_url": "https://raw.githubusercontent.com/Iqbalftr/tv-app-license-control/main/playlist.m3u"
   },
   "devices": {
-    "123a6a34890a11b0": {
-      "user_name": "Iqbal Hossain",
-      "device_type": "Android TV",
-      "email": "iqbalftr@gmail.com",
-      "status": "allowed",
-      "valid_until": "2030-12-31T23:59:59Z"
-    },
-    "1465389L601003X": {
-      "user_name": "Iqbal Hossain",
-      "device_type": "Android TV",
-      "email": "iqbalftr@gmail.com",
-      "status": "allowed",
-      "valid_until": "2030-12-31T23:59:59Z"
-    },
     "b1138d1c356eb21a": {
       "user_name": "Shajjad Hossain",
       "device_type": "Android TV",
@@ -32,13 +18,6 @@
       "email": "",
       "status": "allowed",
       "valid_until": "2030-12-31T23:59:59Z"
-    },
-    "72d0b6cbb7c9d46f": {
-      "user_name": "Iqbal Hossain",
-      "device_type": "Android TV",
-      "email": "iqbalftr@gmail.com",
-      "status": "allowed",
-      "valid_until": "2030-06-01T00:00:00Z"
     }
   }
 }
