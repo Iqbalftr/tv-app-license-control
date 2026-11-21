@@ -39,13 +39,6 @@
       "email": "iqbalftr@gmail.com",
       "status": "allowed",
       "valid_until": "2030-06-01T00:00:00Z"
-    },
-    "23d361169e11699c": {
-      "user_name": "Emulator ANdroid Studio",
-      "device_type": "Android TV",
-      "email": "iqbalftr@gmail.com",
-      "status": "allowed",
-      "valid_until": "2030-12-31T23:59:59Z"
     }
   }
 }
