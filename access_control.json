@@ -25,6 +25,13 @@
       "email": "iqbalftr",
       "status": "allowed",
       "valid_until": "2030-12-31T23:59:59Z"
+    },
+    "a55d832bc3db7d6a": {
+      "user_name": "Iqbal Hossain",
+      "device_type": "Mobile Phone (Android)",
+      "email": "iqbalftr@gmail.com",
+      "status": "allowed",
+      "valid_until": "2030-12-31T23:59:59Z"
     }
   }
 }
