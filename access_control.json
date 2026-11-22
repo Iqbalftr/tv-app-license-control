@@ -3,7 +3,7 @@
     "maintenance_mode": false,
     "maintenance_message": "Server under scheduled maintenance. Please check back later.",
     "global_playlist_url": "https://raw.githubusercontent.com/Iqbalftr/tv-app-license-control/main/playlist.m3u",
-    "epg_url": ""
+    "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
   },
   "devices": {
     "b1138d1c356eb21a": {
