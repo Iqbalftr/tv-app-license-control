@@ -27,13 +27,6 @@
       "status": "allowed",
       "valid_until": "2030-12-31T23:59:59Z"
     },
-    "a55d832bc3db7d6a": {
-      "user_name": "Iqbal Hossain",
-      "device_type": "Mobile Phone (Android)",
-      "email": "iqbalftr@gmail.com",
-      "status": "allowed",
-      "valid_until": "2030-12-31T23:59:59Z"
-    },
     "0427bdd255974656": {
       "user_name": "Tizen Emulator",
       "device_type": "Smart TV (Samsung / LG)",
@@ -52,6 +45,13 @@
       "user_name": "Android studio",
       "device_type": "Android TV",
       "email": "",
+      "status": "allowed",
+      "valid_until": "2030-12-31T23:59:59Z"
+    },
+    "2fe31aaa5ab622ec": {
+      "user_name": "Iqbal",
+      "device_type": "Mobile Phone (Android)",
+      "email": "iqbalftr",
       "status": "allowed",
       "valid_until": "2030-12-31T23:59:59Z"
     }
