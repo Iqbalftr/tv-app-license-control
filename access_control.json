@@ -47,6 +47,13 @@
       "email": "iqbalftr@gmail.com",
       "status": "allowed",
       "valid_until": "2030-12-31T23:59:59Z"
+    },
+    "34b11b7033652c91": {
+      "user_name": "Android studio",
+      "device_type": "Android TV",
+      "email": "",
+      "status": "allowed",
+      "valid_until": "2030-12-31T23:59:59Z"
     }
   }
 }
